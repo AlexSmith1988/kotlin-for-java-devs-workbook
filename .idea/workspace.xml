@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60316ab3-85b7-41d2-be3f-beaf578647f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionals.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/META-INF/web-server.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/main/java/HelloWorldExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/main/java/Kotlin4javaDevsCourseKt$mutableListTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/main/java/Kotlin4javaDevsCourseKt$sam$java_util_function_UnaryOperator$0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/main/java/Kotlin4javaDevsCourseKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/main/java/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/main/java/WeatherExample$Colour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/main/java/WeatherExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-server/main/kotlin/HelloWorldKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorldExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/helloWorldExample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/Person.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WeatherExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kotlin4javaDevsCourse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/vatiablesAndFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/weatherExample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionalsAndLoops.kt" afterDir="false" />
     </list>
     <list id="f1b0d166-1a27-477e-8252-87035d17e720" name="Revert: Update 2" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,9 +19,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -63,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionals.kt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionalsAndLoops.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            <state relative-caret-position="357">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -110,11 +93,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>etch</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ca82ee98809dd3b9103a0298aa6607cf4e240fda" />
+        <entry key="$PROJECT_DIR$" value="test" />
       </map>
     </option>
     <option name="RESET_MODE" value="SOFT" />
@@ -135,9 +123,9 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/kotlin4javaDevsCourseSImpleExamples.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/HelloWorld.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/helloWorld.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionals.kt" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionals.kt" />
       </list>
     </option>
   </component>
@@ -147,7 +135,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -167,11 +155,6 @@
             <path>
               <item name="web-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="web-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-server" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web-server" type="b2602c69:ProjectViewProjectNode" />
@@ -210,7 +193,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551019306545" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551021804120" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -243,15 +226,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.courseVideoSamples.ConditionalsKt">
-    <configuration name="courseVideoSamples.ConditionalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.courseVideoSamples.ConditionalsAndLoopsKt">
+    <configuration name="courseVideoSamples.ConditionalsAndLoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="web-server" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="courseVideoSamples.ConditionalsKt" />
+      <option name="MAIN_CLASS_NAME" value="courseVideoSamples.ConditionalsAndLoopsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -298,10 +281,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.courseVideoSamples.ConditionalsAndLoopsKt" />
         <item itemvalue="Kotlin.courseVideoSamples.WeatherExampleKt" />
         <item itemvalue="Kotlin.courseVideoSamples.VatiablesAndFunctionsKt" />
         <item itemvalue="Kotlin.courseVideoSamples.HelloWorldExampleKt" />
-        <item itemvalue="Kotlin.courseVideoSamples.ConditionalsKt" />
         <item itemvalue="Kotlin.courseVideoSamples.ConditionalsKt" />
       </list>
     </recent_temporary>
@@ -323,7 +306,7 @@
       <workItem from="1550955264240" duration="599000" />
       <workItem from="1550955893299" duration="2703000" />
       <workItem from="1550996512697" duration="7059000" />
-      <workItem from="1551019733222" duration="252000" />
+      <workItem from="1551019733222" duration="1857000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1551019078316</created>
@@ -339,11 +322,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551019807267</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1551019991781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551019991781</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1551020220269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551020220269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13118000" />
+    <option name="totallyTimeSpent" value="14723000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,9 +352,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.19296375" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913043" weight="0.39606127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947807" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -366,17 +364,17 @@
       <window_info id="Favorites" order="6" sideWeight="0.5008696" side_tool="true" weight="0.18869936" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27665997" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27608696" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39839035" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32997987" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.47793326" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.4826087" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3810549" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3279678" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32717392" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -467,7 +465,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Tuples.kt">
@@ -496,21 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/helloWorldExample.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/helloWorld.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/Person.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Any.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -521,28 +506,40 @@
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionals.kt">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        <state relative-caret-position="556">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/weatherExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/helloWorldExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/Person.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -550,6 +547,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/courseVideoSamples/conditionalsAndLoops.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
